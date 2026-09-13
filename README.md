@@ -69,7 +69,7 @@ AI-powered medical report simplifier that converts complex lab reports (PDF/imag
 │   └── Fundamentals → Learning
 │
 ├── 🌐 Web Development
-│   └── HTML / CSS / JavaScript
+│   └── HTML / CSS / JavaScript → Learning
 │
 └── 🤖 AI / Data Science
     └── Exploring
@@ -82,7 +82,6 @@ AI-powered medical report simplifier that converts complex lab reports (PDF/imag
 - Strengthen Java fundamentals
 - Build more real-world projects
 - Participate in hackathons
-- Learn Machine Learning fundamentals
 - Improve problem-solving skills
 - Contribute to open source
 
