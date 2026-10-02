@@ -2,9 +2,9 @@
 
 ### AI & Data Science Student | Python & DSA Learner | Building with AI
 
-I'm a Second-year Artificial Intelligence & Data Science engineering student who enjoys learning by building projects and experimenting with technology.
+I'm a Second-year Artificial Intelligence & Data Science engineering student who enjoys learning & experimenting with technology.
 
-I'm currently focused on strengthening my programming fundamentals, learning Data Structures & Algorithms, exploring Web Development, and gradually moving towards AI/ML.
+I'm currently focused on strengthening my programming fundamentals, learning Data Structures & Algorithms, exploring Web Development.
 
 ---
 
