@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Sail
 
-### AI & Data Science Student | Python & DSA Learner | Building with AI
+### AI & Data Science Student | Java & DSA Learner | Building with AI
 
 I'm a Second-year Artificial Intelligence & Data Science engineering student who enjoys learning & experimenting with technology.
 
